@@ -1,0 +1,9 @@
+create database hrc;
+
+CREATE TABLE students (
+    id  INT(3) NOT NULL AUTO_INCREMENT,
+    NAME VARCHAR(120) NOT NULL,
+    roll VARCHAR(120) NOT NULL,
+    section VARCHAR(120) NOT NULL,
+    PRIMARY KEY (id)`students`
+);
