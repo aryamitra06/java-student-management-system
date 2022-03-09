@@ -1,5 +1,7 @@
 create database hrc;
 
+use hrc;
+
 CREATE TABLE students (
     id  INT(3) NOT NULL AUTO_INCREMENT,
     NAME VARCHAR(120) NOT NULL,
