@@ -12,7 +12,7 @@ import model.Student;
 
 public class StudentDAO {
 	//jdbc auth
-	private String URI = "jdbc:mysql:///hrc";
+	private String URI = "jdbc:mysql:///stdmsys";
 	private String username = "root";
 	private String password = "";
 	
