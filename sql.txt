@@ -1,6 +1,6 @@
-create database hrc;
+create database stdmsys;
 
-use hrc;
+use stdmsys;
 
 CREATE TABLE students (
     id  INT(3) NOT NULL AUTO_INCREMENT,
