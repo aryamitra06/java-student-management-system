@@ -7,5 +7,5 @@ CREATE TABLE students (
     NAME VARCHAR(120) NOT NULL,
     roll VARCHAR(120) NOT NULL,
     section VARCHAR(120) NOT NULL,
-    PRIMARY KEY (id)`students`
+    PRIMARY KEY (id)
 );
